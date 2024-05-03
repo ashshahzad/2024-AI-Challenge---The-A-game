@@ -77,6 +77,8 @@ python generate.py
 
 **Results**
 
+![image](https://github.com/ashshahzad/2024-AI-Challenge---The-A-game/assets/153488884/6e8e86a1-d588-455a-b60e-23aa5db788af)
+
 The trained CNN model achieves 89% precision, 89% recall and 95% accuracy on the test dataset, demonstrating its effectiveness in classifying AI and human art.
 
 Sample classification results:
