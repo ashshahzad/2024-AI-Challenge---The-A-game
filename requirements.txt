@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+keras  # Note: Keras comes bundled with TensorFlow since version 2.3.0
+numpy
+pandas
+pathlib
+pillow
+tqdm
+matplotlib
+torch  
+diffusers
+tkinter
